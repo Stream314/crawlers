@@ -7,4 +7,5 @@ try:
     r.encoding = r.apparent_encoding
     print(r.text[1000:2000])
 except:
+
     print("error")
